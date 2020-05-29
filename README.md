@@ -1,6 +1,6 @@
 # TensorFlow_mnist
 
-TesnsorFlow를 이용하여 손으로 쓴 숫자 인식하기
+TensorFlow를 이용하여 손으로 쓴 숫자 인식하기
 
 ## Model 1
 ### Training
