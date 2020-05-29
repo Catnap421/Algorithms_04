@@ -2,6 +2,7 @@
 
 TensorFlow를 이용하여 손으로 쓴 숫자 인식하기
 
+- - - 
 ## Model 1
 ### Training
 ![image](https://user-images.githubusercontent.com/30318917/83281678-6ae9b180-a213-11ea-8f2a-b1887248e982.png)
@@ -15,6 +16,7 @@ TensorFlow를 이용하여 손으로 쓴 숫자 인식하기
 ### Failure Case Images
 ![image](https://user-images.githubusercontent.com/30318917/83282705-ef88ff80-a214-11ea-94f4-f486782fdb4f.png)
 
+- - - 
 ## Model 2
 ### Training
 ![image](https://user-images.githubusercontent.com/30318917/83283269-e77d8f80-a215-11ea-9544-0e6aa7de26cb.png)
@@ -28,7 +30,7 @@ TensorFlow를 이용하여 손으로 쓴 숫자 인식하기
 ### Failure Case Images
 ![image](https://user-images.githubusercontent.com/30318917/83283432-2dd2ee80-a216-11ea-98a0-05c58f2eab18.png)
 
-
+- - - 
 ## Model 3
 ### Training
 ![image](https://user-images.githubusercontent.com/30318917/83284768-23b1ef80-a218-11ea-9192-5d3b2828b8f3.png)
